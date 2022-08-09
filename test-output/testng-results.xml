@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-09T16:07:52 EDT" name="Suite" finished-at="2022-08-09T16:08:53 EDT" duration-ms="61632">
+    <groups>
+    </groups>
+    <test started-at="2022-08-09T16:07:52 EDT" name="Test" finished-at="2022-08-09T16:08:53 EDT" duration-ms="61632">
+      <class name="tests.RegisterPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.RegisterPageTest@63a12c68]" started-at="2022-08-09T16:07:52 EDT" name="setup" finished-at="2022-08-09T16:08:03 EDT" duration-ms="11382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RegisterUser()[pri:0, instance:tests.RegisterPageTest@63a12c68]" started-at="2022-08-09T16:08:03 EDT" name="RegisterUser" finished-at="2022-08-09T16:08:04 EDT" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterUser -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.RegisterPageTest@63a12c68]" started-at="2022-08-09T16:08:04 EDT" name="TearDown" finished-at="2022-08-09T16:08:06 EDT" duration-ms="2470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.RegisterPageTest -->
+      <class name="tests.WelcomeHomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:06 EDT" name="setup" finished-at="2022-08-09T16:08:12 EDT" duration-ms="5561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ClickOnAgentlogin()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:12 EDT" name="ClickOnAgentlogin" finished-at="2022-08-09T16:08:15 EDT" duration-ms="3633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnAgentlogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:15 EDT" name="TearDown" finished-at="2022-08-09T16:08:17 EDT" duration-ms="1564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:17 EDT" name="setup" finished-at="2022-08-09T16:08:23 EDT" duration-ms="5972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ClickOnLogin()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:23 EDT" name="ClickOnLogin" finished-at="2022-08-09T16:08:24 EDT" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnLogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:24 EDT" name="TearDown" finished-at="2022-08-09T16:08:25 EDT" duration-ms="1253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:25 EDT" name="setup" finished-at="2022-08-09T16:08:30 EDT" duration-ms="5074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ClickOnRegisterButton()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:30 EDT" name="ClickOnRegisterButton" finished-at="2022-08-09T16:08:31 EDT" duration-ms="1282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnRegisterButton -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:31 EDT" name="TearDown" finished-at="2022-08-09T16:08:32 EDT" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:32 EDT" name="setup" finished-at="2022-08-09T16:08:38 EDT" duration-ms="5035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:38 EDT" name="Title" finished-at="2022-08-09T16:08:38 EDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:38 EDT" name="TearDown" finished-at="2022-08-09T16:08:39 EDT" duration-ms="1219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:39 EDT" name="setup" finished-at="2022-08-09T16:08:44 EDT" duration-ms="5447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyingBClogo()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:44 EDT" name="VerifyingBClogo" finished-at="2022-08-09T16:08:45 EDT" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyingBClogo -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:45 EDT" name="TearDown" finished-at="2022-08-09T16:08:46 EDT" duration-ms="1439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:46 EDT" name="setup" finished-at="2022-08-09T16:08:52 EDT" duration-ms="5616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyingIELTSlogo()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:52 EDT" name="VerifyingIELTSlogo" finished-at="2022-08-09T16:08:52 EDT" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyingIELTSlogo -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.WelcomeHomePageTest@5ba3f27a]" started-at="2022-08-09T16:08:52 EDT" name="TearDown" finished-at="2022-08-09T16:08:53 EDT" duration-ms="1273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.WelcomeHomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
