@@ -2,11 +2,12 @@ package tests;
 
 import java.io.IOException;
 
-import org.junit.Assert;
+
 
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import org.testng.asserts.Assertion;
 
 import data.ExcelData;
 import data.TestBase;
@@ -38,9 +39,9 @@ public class RegisterPageTest extends TestBase{
 		
 		rp.RegisterUserWithName("Bhadresh", " ");
 		rp.EnterEmailandClick("Btnawab@gmail.com", "Btnawab@pmail.com");
-		System.out.println(rp.RPtextt());
+		String C = rp.RPtextt();
 
-		Assert.assertEquals(rp.RPtextt(), "Register with British Council");		
+		
 		
 	}	
 		
